@@ -1,0 +1,9 @@
+cCommandQueue	KEYWORD1
+class_initialize	KEYWORD2
+cmd_Get	KEYWORD2
+cmd_Remove	KEYWORD2
+cmd_Parse	KEYWORD2
+cmd_CheckExist	KEYWORD2
+cmd_CheckForInnerValue	KEYWORD2
+cqClearQueue	KEYWORD2
+cqRun	KEYWORD2

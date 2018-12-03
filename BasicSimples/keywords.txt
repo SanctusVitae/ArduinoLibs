@@ -1,0 +1,8 @@
+SimpleSwitch	KEYWORD1
+SimpleSensor	KEYWORD1
+SimpleDigitalDevice	KEYWORD1
+GetState	KEYWORD2
+GetValue	KEYWORD2
+GetIntValue	KEYWORD2
+On	KEYWORD2
+Off	KEYWORD2
